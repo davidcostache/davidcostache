@@ -1,14 +1,14 @@
 # Hello! I'm David Alexandru 👋
-### Aspiring Software Engineer | Recent Computer Science Graduate | Seeking Internship Opportunities
+### Aspiring Software Developer | Recent Computer Science Graduate | Seeking Opportunities
 
-Welcome to my GitHub profile! I recently completed my studies in Computer Science and I'm eager to kickstart my career as a Software Engineer. Although I don't have professional experience yet, I am highly motivated to learn and grow in the field.
+Welcome to my GitHub profile! I'm a recent Computer Science graduate with a strong passion for software development. Although I'm new to the industry, I'm highly motivated to learn and grow.
 
 ## About Me
 
-- 🔭 Seeking internship opportunities to apply and enhance my skills
-- 🌌 Passionate about everything related to the Universe and outer space
-- 🎵 Enthusiastic listener of pop music, always discovering new beats
-- 🏃‍♂️ Active lifestyle advocate, frequently taking walks and going for runs
+- 🔭 Actively seeking opportunities to apply and enhance my skills
+- 🌌 Enthusiastic about everything related to the Universe and outer space
+- 🎵 Avid listener of pop music, always discovering new beats
+- 🏃‍♂️ Advocate for an active lifestyle, frequently taking walks and going for runs
 
 ## Get in Touch
 
