@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate with a stro
 
 ## Get in Touch
 
-If you're interested in collaborating or have any inquiries, feel free to reach out to me at hello@davidalexandru.io.
-
-## Explore My Work
-
-Visit my personal website at [davidalexandru.io](https://davidalexandru.io/) to explore my resume and learn more about my background.
+If you're interested in collaborating or have any inquiries, feel free to reach out to me at hello@davidcostache.io.
 
 Let's connect and create amazing software together! 🚀
